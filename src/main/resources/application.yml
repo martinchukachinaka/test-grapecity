@@ -1,0 +1,8 @@
+server:
+  port: 8686
+grape-city:
+  license: no-value-here
+logging:
+  level:
+    com:
+      labforward: debug

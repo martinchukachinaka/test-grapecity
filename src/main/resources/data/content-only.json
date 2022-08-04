@@ -1,0 +1,93 @@
+{
+    "copyPasteHeaderOptions": 0,
+    "grayAreaBackColor": "white",
+    "sheets": {
+    "Sheet1": {
+        "colHeaderData": {
+        "defaultDataNode": {
+            "style": {
+            "themeFont": "Body"
+            }
+        }
+        },
+        "rowOutlines": {
+        "items": []
+        },
+        "columnOutlines": {
+        "items": []
+        },
+        "activeRow": 3,
+        "data": {
+        "defaultDataNode": {
+            "style": {
+            "themeFont": "Body"
+            }
+        },
+        "dataTable": {
+            "0": {
+            "0": {
+                "value": "Hello"
+            },
+            "1": {
+                "value": "Place"
+            }
+            },
+            "1": {
+            "0": {
+                "value": 1
+            },
+            "1": {
+                "value": "Lagos"
+            }
+            }
+        }
+        },
+        "printInfo": {
+        "paperSize": {
+            "kind": 1,
+            "width": 850,
+            "height": 1100
+        }
+        },
+        "rowHeaderData": {
+        "defaultDataNode": {
+            "style": {
+            "themeFont": "Body"
+            }
+        }
+        },
+        "index": 0,
+        "outlineColumnOptions": {},
+        "columnCount": 26,
+        "leftCellIndex": 0,
+        "states": {},
+        "frozenTrailingColumnStickToEdge": true,
+        "selections": {
+        "0": {
+            "col": 1,
+            "colCount": 1,
+            "row": 3,
+            "rowCount": 1
+        },
+        "length": 1
+        },
+        "activeCol": 1,
+        "frozenTrailingRowStickToEdge": true,
+        "topCellIndex": 0,
+        "shapeCollectionOption": {
+        "snapMode": 0
+        },
+        "name": "Sheet1",
+        "isSelected": true,
+        "autoMergeRangeInfos": [],
+        "theme": "Office",
+        "cellStates": {}
+    }
+    },
+    "customList": [],
+    "scrollbarMaxAlign": true,
+    "calcOnDemand": true,
+    "version": "14.2.6",
+    "allowExtendPasteRange": true
+}
+  

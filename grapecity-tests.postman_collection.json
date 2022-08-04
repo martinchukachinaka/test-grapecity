@@ -1,0 +1,68 @@
+{
+	"info": {
+		"_postman_id": "a51a8036-755d-4558-a964-244b301beb0d",
+		"name": "grapecity-tests",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "703184"
+	},
+	"item": [
+		{
+			"name": "save xlsx",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8686/export/xlsx?fileName=compact-large&outputDirectory=/Users/cc/Downloads",
+					"host": [
+						"localhost"
+					],
+					"port": "8686",
+					"path": [
+						"export",
+						"xlsx"
+					],
+					"query": [
+						{
+							"key": "fileName",
+							"value": "compact-large"
+						},
+						{
+							"key": "outputDirectory",
+							"value": "/Users/cc/Downloads"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "save pdf",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8686/export/pdf?fileName=compact-large&outputDirectory=/Users/cc/Downloads",
+					"host": [
+						"localhost"
+					],
+					"port": "8686",
+					"path": [
+						"export",
+						"pdf"
+					],
+					"query": [
+						{
+							"key": "fileName",
+							"value": "compact-large"
+						},
+						{
+							"key": "outputDirectory",
+							"value": "/Users/cc/Downloads"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

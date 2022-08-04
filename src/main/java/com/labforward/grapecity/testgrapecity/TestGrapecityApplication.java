@@ -18,6 +18,7 @@ public class TestGrapecityApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) {
+		System.out.println("grapeCityLicense: " + grapeCityLicense);
 		Workbook.SetLicenseKey(grapeCityLicense);
 	}
 }
